@@ -1,20 +1,7 @@
-<p align="center">
-  <a href="https://xpeng-ai.github.io/">
-    <img src="https://xpeng-ai.github.io/assets/xpeng-favicon.png?v=2" width="160" alt="XPENG AI logo">
-  </a>
-</p>
+## <img src="https://xpeng-ai.github.io/assets/xpeng-favicon.png?v=2" width="52" alt="XPENG AI logo" align="center"> XPENG AI
 
-<h1 align="center">XPENG AI</h1>
-
-<p align="center">
-  Exploring artificial intelligence for intelligent mobility.
-</p>
-
-<p align="center">
-  <a href="https://xpeng-ai.github.io/">Official Website</a>
-  &nbsp;&middot;&nbsp;
-  <a href="https://xpeng-ai.github.io/x-aut/">X-AuT Project</a>
-</p>
+Exploring artificial intelligence for intelligent mobility.<br>
+[Official Website](https://xpeng-ai.github.io/) · [X-AuT Project](https://xpeng-ai.github.io/x-aut/)
 
 ## About
 
