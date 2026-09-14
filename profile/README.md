@@ -17,7 +17,7 @@ We build practical AI systems and share selected projects with the research and 
 
 X-AuT explores efficient audio encoders for speech-language models through progressive compression and cross-scale knowledge transfer.
 
-[Visit the project website](https://xpeng-ai.github.io/x-aut/)
+[Project website](https://xpeng-ai.github.io/x-aut/) · [Paper](https://arxiv.org/abs/2609.11412) · [Code](https://github.com/XPENG-AI/X-AuT) · [Model](https://huggingface.co/XPENG-AI/X-AuT)
 
 ### OmniGUI
 
