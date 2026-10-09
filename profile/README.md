@@ -1,7 +1,7 @@
 ## <img src="https://xpeng-ai.github.io/assets/xpeng-favicon.png?v=2" width="52" alt="XPENG AI logo" align="center"> XPENG AI
 
 Exploring artificial intelligence for intelligent mobility.<br>
-[Official Website](https://xpeng-ai.github.io/) · [GroundingPI](https://groundingpi.github.io/) · [X-AuT](https://xpeng-ai.github.io/x-aut/) · [OmniGUI](https://omni-gui.github.io/)
+[Official Website](https://xpeng-ai.github.io/) · [GroundingPI](https://groundingpi.github.io/) · [GroundAnything](https://groundingpi.github.io/groundanything/) · [X-AuT](https://xpeng-ai.github.io/x-aut/) · [OmniGUI](https://omni-gui.github.io/)
 
 ## About
 
