@@ -1,7 +1,7 @@
 ## <img src="https://xpeng-ai.github.io/assets/xpeng-favicon.png?v=2" width="52" alt="XPENG AI logo" align="center"> XPENG AI
 
 Exploring artificial intelligence for intelligent mobility.<br>
-[Official Website](https://xpeng-ai.github.io/) · [GroundingPI](https://groundingpi.github.io/) · [GroundAnything](https://groundingpi.github.io/groundanything/) · [X-AuT](https://xpeng-ai.github.io/x-aut/) · [OmniGUI](https://omni-gui.github.io/)
+[Official Website](https://xpeng-ai.github.io/) · [GroundingPI](https://groundingpi.github.io/) · [GroundAnything](https://groundingpi.github.io/groundanything/) · [AUGUstus](https://augustus-ad.github.io/) · [X-AuT](https://xpeng-ai.github.io/x-aut/) · [OmniGUI](https://omni-gui.github.io/)
 
 ## About
 
@@ -26,6 +26,14 @@ GroundingPI is a 4B grounding foundation model that generates points and boxes a
 GroundAnything combines parallel decoding with precise visual grounding for flash-speed inference, available in both diffusion (DLM) and autoregressive (VLM) variants.
 
 [Project website](https://groundingpi.github.io/groundanything/) · [Paper](https://arxiv.org/abs/2609.39600) · [Code](https://github.com/groundingpi/GroundAnything) · [Model](https://huggingface.co/GroundingPI/GroundAnything-VLM)
+
+### AUGUstus
+
+**Autonomous Driving VLA Model with Unified Generation and Understanding**
+
+AUGUstus unifies diffusion-based action generation and autoregressive chain-of-thought understanding in a single VLA model for autonomous driving, combining low latency with full use of VLM reasoning.
+
+[Project website](https://augustus-ad.github.io/) · [Paper](https://arxiv.org/abs/2610.16985) · [Code](https://github.com/haha-yuki-haha/AUGUstus)
 
 ### X-AuT
 
